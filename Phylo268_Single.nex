@@ -1,0 +1,10 @@
+#NEXUS
+
+BEGIN TAXA;
+	DIMENSIONS ntax=25;
+	TAXLABELS  Yersinia_frederiksenii Yersinia_pestis Yersinia_enterocolitica Serratia_plymuthica Serratia_marcescens Klebsiella_pneumoniae Escherichia_coli Shigella_sonnei Pseudomonas_aeruginosa Pseudomonas_putida Pseudomonas_fluorescens Pseudomonas_syringae Chromobacterium_violaceum Burkholderia_cenocepacia Burkholderia_lata Streptomyces_griseus Streptomyces_venezuelae Streptomyces_coelicolor Microbispora_corallina Lactococcus_lactis Lactobacillus_plantarum Paenibacillus_polymyxa Bacillus_subtilis Staphylococcus_epidermidis Bacillus_licheniformis;
+END;
+
+BEGIN TREES;
+	TREE tree_1 = (((((((((Yersinia_frederiksenii:0.00460770,Yersinia_pestis:0.00532600)0.9830:0.01074843,Yersinia_enterocolitica:0.01179484)0.9930:0.01897824,Serratia_plymuthica:0.00645255)0.8230:0.01612228,Serratia_marcescens:0.00056244)0.7470:0.00960090,Klebsiella_pneumoniae:0.01518813)0.8410:0.01379861,Escherichia_coli:0.00000803)0.5590:0.00000803,Shigella_sonnei:0.00755855)1.0000:0.13335655,(Pseudomonas_aeruginosa:0.01943889,(Pseudomonas_putida:0.02765715,(Pseudomonas_fluorescens:0.01256765,Pseudomonas_syringae:0.01886957)0.7630:0.01042073)0.9210:0.01091806)1.0000:0.05253044)0.8440:0.02834938,(Chromobacterium_violaceum:0.06879801,(Burkholderia_cenocepacia:0.00000000,Burkholderia_lata:0.00101759)1.0000:0.05495426)0.9960:0.10838833,((((Streptomyces_griseus:0.00941582,Streptomyces_venezuelae:0.01004469)0.9900:0.01649668,Streptomyces_coelicolor:0.02729741)0.9990:0.02173924,Microbispora_corallina:0.10636801)1.0000:0.17093521,((Lactococcus_lactis:0.08875211,Lactobacillus_plantarum:0.05825582)0.9960:0.08438853,(Paenibacillus_polymyxa:0.09680393,(Bacillus_subtilis:0.03068616,(Staphylococcus_epidermidis:0.00236429,Bacillus_licheniformis:0.00000803)1.0000:0.03127411)1.0000:0.02511980)0.7700:0.01449617)1.0000:0.09380977)1.0000:0.13032533)root;
+END;
