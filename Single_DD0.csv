@@ -1,0 +1,72 @@
+Bacteria,Toxin,DDR,Spectr
+Escherichia_coli,Colicin A,0,1
+Escherichia_coli,Colicin B,0,1
+Escherichia_coli,Colicin D,0,1
+Escherichia_coli,Colicin E1,0,1
+Escherichia_coli,Colicin E2,0,1
+Escherichia_coli,Colicin E3,0,1
+Escherichia_coli,Colicin E5,0,1
+Escherichia_coli,Colicin E6,0,1
+Escherichia_coli,Colicin E7,0,1
+Escherichia_coli,Colicin E8,0,1
+Escherichia_coli,Colicin E9,0,1
+Escherichia_coli,Colicin Ia,0,1
+Escherichia_coli,Colicin Ib,0,1
+Escherichia_coli,Colicin K,0,1
+Escherichia_coli,Colicin M,0,1
+Escherichia_coli,Colicin N,0,1
+Escherichia_coli,Colicin U,0,1
+Escherichia_coli,Colicin Y,0,1
+Escherichia_coli,Cloacin DF13,0,1
+Escherichia_coli,Colicin 5,0,1
+Escherichia_coli,Colicin S4,0,1
+Escherichia_coli,Colicin R,0,1
+Escherichia_coli,Colicin Z,0,1
+Escherichia_coli,Microcin C,0,3
+Escherichia_coli,Microcin J25,0,1
+Escherichia_coli,Microcin V,0,1
+Escherichia_coli,Microcin H47,0,1
+Escherichia_coli,Microcin I47,0,1
+Escherichia_coli,Microcin M,0,1
+Escherichia_coli,Microcin N,0,2
+Escherichia_coli,Microcin PDI,0,1
+Shigella_sonnei,Colicin Js,0,1
+Klebsiella_pneumoniae,Microcin E492,0,1
+Klebsiella_pneumoniae,Klebicin A1,0,1
+Klebsiella_pneumoniae,Klebicin A2,0,1
+Klebsiella_pneumoniae,Klebicin A3,0,1
+Yersinia_pestis,Pesticin,0,1
+Yersinia_frederiksenii,Colicin Fy,0,1
+Yersinia_enterocolitica,Enterocoliticin,0,1
+Serratia_marcescens,Bacteriocin 28B,0,1
+Pseudomonas_aeruginosa,Pyocin R1,0,2
+Pseudomonas_aeruginosa,Pyocin R2,0,2
+Pseudomonas_aeruginosa,Pyocin R5,0,2
+Pseudomonas_aeruginosa,Pyocin F1,0,1
+Pseudomonas_aeruginosa,Pyocin F2,0,1
+Pseudomonas_aeruginosa,Pyocin F3,0,1
+Pseudomonas_aeruginosa,PaeM,0,1
+Pseudomonas_syringae,Syringacin M,0,1
+Pseudomonas_putida,LlpA_Bw,0,1
+Burkholderia_cenocepacia,BceTMilo,0,2
+Escherichia_coli,Microcin B17,1,2
+Serratia_plymuthica,Pyrrolnitrin,1,3
+Pseudomonas_aeruginosa,Pyocyanin,1,3
+Pseudomonas_aeruginosa,PQS/HQNO,1,3
+Pseudomonas_aeruginosa,Hydrogen Cyanide,1,3
+Pseudomonas_fluorescens,Pyrrolnitrin,1,3
+Burkholderia_lata,Pyrrolnitrin,1,3
+Chromobacterium_violaceum,Violacein,1,3
+Lactobacillus_plantarum,Plantaricin E/F,1,1
+Lactobacillus_plantarum,Plantaricin J/K,1,1
+Lactococcus_lactis,Nisin,1,3
+Bacillus_subtilis,Subtilin,1,3
+Bacillus_licheniformis,Bacitracin,1,3
+Paenibacillus_polymyxa,Polymyxin B,1,3
+Paenibacillus_polymyxa,Polymyxin E,1,3
+Staphylococcus_epidermidis,Epidermin,1,3
+Microbispora_corallina,Microbisporicin,1,3
+Streptomyces_coelicolor,Actinorhodin,1,3
+Streptomyces_coelicolor,Methylenomycin,1,3
+Streptomyces_venezuelae,Chloramphenicol,1,3
+Streptomyces_griseus,Streptomycin,1,3
